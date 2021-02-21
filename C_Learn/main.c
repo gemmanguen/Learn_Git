@@ -16,7 +16,7 @@ int main(void)
 			break;
 		}
 	}
-	Dem = 100;
+	Dem = 100;áwrerww
 	
 	return 0;
 }
