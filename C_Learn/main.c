@@ -5,6 +5,16 @@
 int u32CheckingVolatile = 0U;
 int Dem = 0U;
 
+/**
+sensor
+**/
+?dfaegqa
+?dkjfahw
+asfasdlfake;lreqkr
+uertmsdfnvsjkeru
+
+
+/***************/
 int main(void)
 {
 	while(1)
