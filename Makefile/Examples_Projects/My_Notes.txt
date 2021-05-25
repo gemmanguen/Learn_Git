@@ -1,0 +1,13 @@
+I have 2 projects with makefile:
+
+*** 1. Helloworld
+- It is a very simple project with C 
+- I wrote it simplely to learn about how to write a Makefile
+
+*** 2. Endian_Test
+- After I understand about Makefile, how to create hex/bin/elf files,
+  I can write a Makefile for MCU 
+- I used a project from previous report (Bare-metal Embedded) and 
+  try write a makefile according to what I have learned
+
+*** I deleted ouput file in those project because outlook does not allow sending exe file
